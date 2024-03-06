@@ -1,0 +1,12 @@
+C:\Users\Developer\Desktop\Desarrollo\Carpeta.net\PracticaSP\DAC\bin\Debug\net6.0\DAC.deps.json
+C:\Users\Developer\Desktop\Desarrollo\Carpeta.net\PracticaSP\DAC\bin\Debug\net6.0\DAC.dll
+C:\Users\Developer\Desktop\Desarrollo\Carpeta.net\PracticaSP\DAC\bin\Debug\net6.0\DAC.pdb
+C:\Users\Developer\Desktop\Desarrollo\Carpeta.net\PracticaSP\DAC\obj\Debug\net6.0\DAC.csproj.AssemblyReference.cache
+C:\Users\Developer\Desktop\Desarrollo\Carpeta.net\PracticaSP\DAC\obj\Debug\net6.0\DAC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Developer\Desktop\Desarrollo\Carpeta.net\PracticaSP\DAC\obj\Debug\net6.0\DAC.AssemblyInfoInputs.cache
+C:\Users\Developer\Desktop\Desarrollo\Carpeta.net\PracticaSP\DAC\obj\Debug\net6.0\DAC.AssemblyInfo.cs
+C:\Users\Developer\Desktop\Desarrollo\Carpeta.net\PracticaSP\DAC\obj\Debug\net6.0\DAC.csproj.CoreCompileInputs.cache
+C:\Users\Developer\Desktop\Desarrollo\Carpeta.net\PracticaSP\DAC\obj\Debug\net6.0\DAC.dll
+C:\Users\Developer\Desktop\Desarrollo\Carpeta.net\PracticaSP\DAC\obj\Debug\net6.0\refint\DAC.dll
+C:\Users\Developer\Desktop\Desarrollo\Carpeta.net\PracticaSP\DAC\obj\Debug\net6.0\DAC.pdb
+C:\Users\Developer\Desktop\Desarrollo\Carpeta.net\PracticaSP\DAC\obj\Debug\net6.0\ref\DAC.dll
